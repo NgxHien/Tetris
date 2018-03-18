@@ -190,9 +190,9 @@ int Rotate(int x,int y, int r) // r là góc xoay
 
 int main ()
 {
-    DrawBoard();
-
-
+    	DrawBoard();
+	return 0;
+	
 }
 
 
