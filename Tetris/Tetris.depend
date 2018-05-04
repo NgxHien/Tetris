@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1525408204 source:c:\users\administrator\desktop\new folder\main.cpp
+	<iostream>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+	"New-Tetris-1.h"
+
+1525408829 c:\users\administrator\desktop\new folder\new-tetris-1.h
+	<iostream>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+
+1525408828 source:c:\users\administrator\desktop\new folder\new-tetris-1.cpp
+	<iostream>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+	"New-Tetris-1.h"
+
+1525408204 source:c:\users\administrator\desktop\new folder\tetris\main.cpp
+	<iostream>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+	"New-Tetris-1.h"
+
+1525408829 c:\users\administrator\desktop\new folder\tetris\new-tetris-1.h
+	<iostream>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+
+1525408828 source:c:\users\administrator\desktop\new folder\tetris\new-tetris-1.cpp
+	<iostream>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+	"New-Tetris-1.h"
+
